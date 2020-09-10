@@ -1,101 +1,101 @@
 group,variable,value
-Ana,língua portuguesa,30
-Ana,matemática,95
-Ana,biologia,22
-Ana,física,14
-Ana,química,59
-Ana,filosofia,52
-Ana,inglês,88
+Ana,Idade,28
+Ana,Nota Geral,640
+Ana,Nota Redação,750
+Ana,Deficiente,Não
+Ana,Língua Estrangeira,Ingês
+Ana,Estado Civil,Solteiro(a)
+Ana,Etnia,Branco(a)
 Ana,Estado,RS
 Ana,Colégio,Público
 Ana,Gênero,Feminino
-Bia,língua portuguesa,37
-Bia,matemática,50
-Bia,biologia,81
-Bia,física,79
-Bia,química,84
-Bia,filosofia,91
-Bia,inglês,82
+Bia,Idade,26
+Bia,Nota Geral,690
+Bia,Nota Redação,740
+Bia,Deficiente,Não
+Bia,Língua Estrangeira,Ingês
+Bia,Estado Civil,Casado(a)
+Bia,Etnia,Pardo(a)
 Bia,Estado,SP
 Bia,Colégio,Público
 Bia,Gênero,Feminino
-Carlos,língua portuguesa,96
-Carlos,matemática,13
-Carlos,biologia,98
-Carlos,física,10
-Carlos,química,86
-Carlos,filosofia,23
-Carlos,inglês,74
+Carlos,Idade,19
+Carlos,Nota Geral,780
+Carlos,Nota Redação,590
+Carlos,Deficiente,Não
+Carlos,Língua Estrangeira,Espanhol
+Carlos,Estado Civil,Casado(a)
+Carlos,Etnia,Negro(a)
 Carlos,Estado,RJ
 Carlos,Colégio,Particular
 Carlos,Gênero,Masculino
-Daniel,língua portuguesa,75
-Daniel,matemática,18
-Daniel,biologia,92
-Daniel,física,43
-Daniel,química,16
-Daniel,filosofia,27
-Daniel,inglês,76
+Daniel,Idade,18
+Daniel,Nota Geral,690
+Daniel,Nota Redação,630
+Daniel,Deficiente,Sim
+Daniel,Língua Estrangeira,Ingês
+Daniel,Estado Civil,Solteiro(a)
+Daniel,Etnia,Amarelo(a)
 Daniel,Estado,SC
 Daniel,Colégio,Público
 Daniel,Gênero,Masculino
-Elisa,língua portuguesa,44
-Elisa,matemática,29
-Elisa,biologia,58
-Elisa,física,55
-Elisa,química,65
-Elisa,filosofia,56
-Elisa,inglês,9
+Elisa,Idade,21
+Elisa,Nota Geral,850
+Elisa,Nota Redação,750
+Elisa,Deficiente,Não
+Elisa,Língua Estrangeira,Ingês
+Elisa,Estado Civil,Solteiro(a)
+Elisa,Etnia,Indígena(a)
 Elisa,Estado,DF
 Elisa,Colégio,Particular
 Elisa,Gênero,Feminino
-Felipe,língua portuguesa,35
-Felipe,matemática,80
-Felipe,biologia,8
-Felipe,física,46
-Felipe,química,48
-Felipe,filosofia,100
-Felipe,inglês,17
+Felipe,Idade,20
+Felipe,Nota Geral,700
+Felipe,Nota Redação,600
+Felipe,Deficiente,Não
+Felipe,Língua Estrangeira,Espanhol
+Felipe,Estado Civil,Divorciado(a)
+Felipe,Etnia,Branco(a)
 Felipe,Estado,CE
 Felipe,Colégio,Particular
 Felipe,Gênero,Masculino
-Geni,língua portuguesa,77
-Geni,matemática,62
-Geni,biologia,94
-Geni,física,15
-Geni,química,69
-Geni,filosofia,63
-Geni,inglês,61
+Geni,Idade,24
+Geni,Nota Geral,900
+Geni,Nota Redação,810
+Geni,Deficiente,Sim
+Geni,Língua Estrangeira,Ingês
+Geni,Estado Civil,Viúvo(a)
+Geni,Etnia,Negro(a)
 Geni,Estado,PE
 Geni,Colégio,Público
 Geni,Gênero,Feminino
-Helio,língua portuguesa,39
-Helio,matemática,26
-Helio,biologia,90
-Helio,física,83
-Helio,química,31
-Helio,filosofia,2
-Helio,inglês,51
+Helio,Idade,30
+Helio,Nota Geral,650
+Helio,Nota Redação,700
+Helio,Deficiente,Não
+Helio,Língua Estrangeira,Ingês
+Helio,Estado Civil,Separado(a) 
+Helio,Etnia,Pardo(a)
 Helio,Estado,BA
 Helio,Colégio,Particular
 Helio,Gênero,Masculino
-Isa,língua portuguesa,5
-Isa,matemática,60
-Isa,biologia,21
-Isa,física,25
-Isa,química,3
-Isa,filosofia,70
-Isa,inglês,34
+Isa,Idade,19
+Isa,Nota Geral,900
+Isa,Nota Redação,880
+Isa,Deficiente,Não
+Isa,Língua Estrangeira,Espanhol
+Isa,Estado Civil,Solteiro(a)
+Isa,Etnia,Branco(a)
 Isa,Estado,MG
 Isa,Colégio,Particular
 Isa,Gênero,Feminino
-Jonas,língua portuguesa,19
-Jonas,matemática,85
-Jonas,biologia,53
-Jonas,física,45
-Jonas,química,71
-Jonas,filosofia,64
-Jonas,inglês,4
+Jonas,Idade,18
+Jonas,Nota Geral,560
+Jonas,Nota Redação,650
+Jonas,Deficiente,Não
+Jonas,Língua Estrangeira,Espanhol
+Jonas,Estado Civil,Solteiro(a)
+Jonas,Etnia,Amarelo(a)
 Jonas,Estado,AL
 Jonas,Colégio,Público
 Jonas,Gênero,Masculino

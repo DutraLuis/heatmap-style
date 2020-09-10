@@ -7,8 +7,8 @@ Ana,química,59
 Ana,filosofia,52
 Ana,inglês,88
 Ana,geografia,20
-Ana,história,A
-Ana,gênero,Feminino
+Ana,Colégio,Público
+Ana,Gênero,Feminino
 Bia,língua portuguesa,37
 Bia,matemática,50
 Bia,biologia,81
@@ -17,8 +17,8 @@ Bia,química,84
 Bia,filosofia,91
 Bia,inglês,82
 Bia,geografia,89
-Bia,história,B
-Bia,gênero,Feminino
+Bia,Colégio,Público
+Bia,Gênero,Feminino
 Carlos,língua portuguesa,96
 Carlos,matemática,13
 Carlos,biologia,98
@@ -27,8 +27,8 @@ Carlos,química,86
 Carlos,filosofia,23
 Carlos,inglês,74
 Carlos,geografia,47
-Carlos,história,C
-Carlos,gênero,Masculino
+Carlos,Colégio,Particular
+Carlos,Gênero,Masculino
 Daniel,língua portuguesa,75
 Daniel,matemática,18
 Daniel,biologia,92
@@ -37,8 +37,8 @@ Daniel,química,16
 Daniel,filosofia,27
 Daniel,inglês,76
 Daniel,geografia,24
-Daniel,história,C
-Daniel,gênero,Masculino
+Daniel,Colégio,Público
+Daniel,Gênero,Masculino
 Elisa,língua portuguesa,44
 Elisa,matemática,29
 Elisa,biologia,58
@@ -47,8 +47,8 @@ Elisa,química,65
 Elisa,filosofia,56
 Elisa,inglês,9
 Elisa,geografia,78
-Elisa,história,B
-Elisa,gênero,Feminino
+Elisa,Colégio,Particular
+Elisa,Gênero,Feminino
 Felipe,língua portuguesa,35
 Felipe,matemática,80
 Felipe,biologia,8
@@ -57,8 +57,8 @@ Felipe,química,48
 Felipe,filosofia,100
 Felipe,inglês,17
 Felipe,geografia,41
-Felipe,história,C
-Felipe,gênero,Masculino
+Felipe,Colégio,Particular
+Felipe,Gênero,Masculino
 Geni,língua portuguesa,77
 Geni,matemática,62
 Geni,biologia,94
@@ -67,8 +67,8 @@ Geni,química,69
 Geni,filosofia,63
 Geni,inglês,61
 Geni,geografia,54
-Geni,história,B
-Geni,gênero,Feminino
+Geni,Colégio,Público
+Geni,Gênero,Feminino
 Helio,língua portuguesa,39
 Helio,matemática,26
 Helio,biologia,90
@@ -77,8 +77,8 @@ Helio,química,31
 Helio,filosofia,2
 Helio,inglês,51
 Helio,geografia,28
-Helio,história,A
-Helio,gênero,Masculino
+Helio,Colégio,Particular
+Helio,Gênero,Masculino
 Isa,língua portuguesa,5
 Isa,matemática,60
 Isa,biologia,21
@@ -87,8 +87,8 @@ Isa,química,3
 Isa,filosofia,70
 Isa,inglês,34
 Isa,geografia,68
-Isa,história,B
-Isa,gênero,Feminino
+Isa,Colégio,Particular
+Isa,Gênero,Feminino
 Jonas,língua portuguesa,19
 Jonas,matemática,85
 Jonas,biologia,53
@@ -97,5 +97,5 @@ Jonas,química,71
 Jonas,filosofia,64
 Jonas,inglês,4
 Jonas,geografia,12
-Jonas,história,B
-Jonas,gênero,Masculino
+Jonas,Colégio,Público
+Jonas,Gênero,Masculino
